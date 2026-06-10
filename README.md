@@ -9,15 +9,18 @@ I am a GIS Specialist and former Intelligence Analyst who enjoys solving complex
 I am particularly interested in transforming messy datasets into meaningful information that supports better decisions, whether through geospatial analysis, Python automation, SQL, or data visualization..
 
 ## Skills
-- Python
-- SQL & PostgreSQL
-- ArcGIS Pro & ArcGIS Online
-- ArcGIS API for Python
-- Pandas
-- Dashboard Development
-- ETL Automation
-- Data Analysis
-- Excel
+-Intelligence Analysis
+-Operational Intelligence
+-ArcGIS Pro & ArcGIS Online
+-ArcGIS Dashboards
+-Python
+-ETL Development
+-Workflow Automation
+-SQL & PostgreSQL
+-Data Integration
+-Dashboard Development
+-Microsoft Excel
+-Decision Support
 
 ## Featured Projects
 - Subdivision Development Lifecycle Analytics and Workflow Automation for Water Utilitie
