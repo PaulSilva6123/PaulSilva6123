@@ -1,16 +1,23 @@
-## Hi there 👋
+# Paul Silva
 
-<!--
-**PaulSilva6123/PaulSilva6123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GIS Specialist | Data Analyst | Python Automation
 
-Here are some ideas to get you started:
+## About Me
+I specialize in transforming utility and GIS data into actionable insights through Python, SQL, ArcGIS, and dashboard development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- SQL & PostgreSQL
+- ArcGIS Pro & ArcGIS Online
+- ArcGIS API for Python
+- Pandas
+- Dashboard Development
+- ETL Automation
+- Data Analysis
+
+## Featured Projects
+- Sequence Report Synchronization
+- Leak Analytics Dashboard
+- Lead Service Line Inventory
+- Subdivision ETL Automation
+- GIS Automation Toolbox
