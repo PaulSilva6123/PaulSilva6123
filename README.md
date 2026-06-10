@@ -3,7 +3,6 @@
 GIS Specialist | Military Intelligence | Data Analyst | Python Automation
 
 ## About Me
-## About Me
 
 I am a GIS Specialist and former Intelligence Analyst who enjoys solving complex problems through data. My experience ranges from intelligence products and trend analysis to utility GIS automation and dashboard development.
 
