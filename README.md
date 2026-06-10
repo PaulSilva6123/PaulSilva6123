@@ -1,9 +1,13 @@
 # Paul Silva
 
-GIS Specialist | Data Analyst | Python Automation
+GIS Specialist | Military Intelligence | Data Analyst | Python Automation
 
 ## About Me
-I specialize in transforming utility and GIS data into actionable insights through Python, SQL, ArcGIS, and dashboard development.
+## About Me
+
+I am a GIS Specialist and former Intelligence Analyst who enjoys solving complex problems through data. My experience ranges from intelligence products and trend analysis to utility GIS automation and dashboard development.
+
+I am particularly interested in transforming messy datasets into meaningful information that supports better decisions, whether through geospatial analysis, Python automation, SQL, or data visualization..
 
 ## Skills
 - Python
@@ -14,6 +18,7 @@ I specialize in transforming utility and GIS data into actionable insights throu
 - Dashboard Development
 - ETL Automation
 - Data Analysis
+- Excel
 
 ## Featured Projects
 - Sequence Report Synchronization
