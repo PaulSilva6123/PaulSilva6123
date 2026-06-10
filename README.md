@@ -20,8 +20,9 @@ I am particularly interested in transforming messy datasets into meaningful info
 - Excel
 
 ## Featured Projects
-- Sequence Report Synchronization
-- Leak Analytics Dashboard
-- Lead Service Line Inventory
-- Subdivision ETL Automation
-- GIS Automation Toolbox
+- Subdivision Development Lifecycle Analytics and Workflow Automation for Water Utilitie
+- Customer Data Synchronization and GIS Integration for Water Utilities
+- Environmental Indicator Analysis for Operational Activity Forecasting
+- Automatic Meter Reading (AMR) Deployment Optimization Analysis for Water Utilities
+- Leak Performance Trend Analysis and Operational Monitoring for Water Utilities
+- Water Leak Operational Analytics and Backlog Monitoring for Water Utilities
