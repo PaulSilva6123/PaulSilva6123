@@ -23,7 +23,7 @@ I am particularly interested in transforming messy datasets into meaningful info
 - Decision Support
 
 ## Featured Projects
-- Subdivision Development Lifecycle Analytics and Workflow Automation for Water Utilitie
+- Subdivision Development Lifecycle Analytics and Workflow Automation for Water Utilities
 - Customer Data Synchronization and GIS Integration for Water Utilities
 - Environmental Indicator Analysis for Operational Activity Forecasting
 - Automatic Meter Reading (AMR) Deployment Optimization Analysis for Water Utilities
