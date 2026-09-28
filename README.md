@@ -8,6 +8,20 @@ I am a GIS Specialist and former Intelligence Analyst who enjoys solving complex
 
 I am particularly interested in transforming messy datasets into meaningful information that supports better decisions, whether through geospatial analysis, Python automation, SQL, or data visualization.
 
+## What I Build
+
+**GIS Automation & Data Integration**  
+Python-based workflows, ETL pipelines, database integration, and automated synchronization between operational systems and GIS.
+
+**Spatial & Operational Analysis**  
+Geospatial, temporal, and trend analysis used to identify patterns, prioritize resources, monitor performance, and support operational decision-making.
+
+**Web & Field GIS Solutions**  
+ArcGIS Online applications, dashboards, field data collection workflows, and GIS tools designed to make operational information accessible to end users.
+
+**Intelligence & Decision Support**  
+Analytical products that combine multiple data sources to identify trends, patterns, indicators, and other information relevant to operational decision-making.
+
 ## Skills
 - Intelligence Analysis
 - Operational Intelligence
