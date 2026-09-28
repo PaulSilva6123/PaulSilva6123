@@ -37,9 +37,15 @@ Analytical products that combine multiple data sources to identify trends, patte
 - Decision Support
 
 ## Featured Projects
-- Subdivision Development Lifecycle Analytics and Workflow Automation for Water Utilities
-- Customer Data Synchronization and GIS Integration for Water Utilities
-- Environmental Indicator Analysis for Operational Activity Forecasting
-- Automatic Meter Reading (AMR) Deployment Optimization Analysis for Water Utilities
-- Leak Performance Trend Analysis and Operational Monitoring for Water Utilities
-- Water Leak Operational Analytics and Backlog Monitoring for Water Utilities
+
+- [Subdivision Development Lifecycle Analytics and Workflow Automation for Water Utilities](https://github.com/PaulSilva6123/subdivision-development-lifecycle-analytics)
+
+- [Customer Data Synchronization and GIS Integration for Water Utilities](https://github.com/PaulSilva6123/Customer-Data-Synchronization-and-GIS-Integration)
+
+- [Environmental Indicator Analysis for Operational Activity Forecasting](https://github.com/PaulSilva6123/Environmental-Indicator-Analysis-for-Operational-Activity-Forecasting)
+
+- [Automatic Meter Reading (AMR) Deployment Optimization Analysis for Water Utilities](https://github.com/PaulSilva6123/Automatic-Meter-Read-AMR-Deployment-Optimization-Analysis-for-Water-Utilities)
+
+- [Leak Performance Trend Analysis and Operational Monitoring for Water Utilities](https://github.com/PaulSilva6123/Leak-Performance-Trend-Analysis-and-Operational-Monitoring-for-Water-Utilities)
+
+- [Water Leak Operational Analytics and Backlog Monitoring for Water Utilities](https://github.com/PaulSilva6123/Water-Leak-Operational-Analytics-and-Backlog-Monitoring-for-Water-Utilities)
